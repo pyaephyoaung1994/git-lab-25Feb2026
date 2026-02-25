@@ -39,3 +39,9 @@ The following items must be reviewed and prepared:
 - All diagrams must be updated based on the current system environment.
 - Port lists and labeling must be clearly documented.
 - Any additional findings should be recorded in the assessment document.
+
+## Owner
+
+Prepared by: System Infrastructure Team  
+Project: SMED Bank Managed Service  
+Last Updated: [Date]
